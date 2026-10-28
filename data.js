@@ -166,7 +166,8 @@ const DOCS = [
       "role": "작가"
     },
     "to": "이수현",
-    "messageId": "glassbook-m-101@archive"
+    "messageId": "glassbook-m-101@archive",
+    "thread": "inquiry"
   },
   {
     "id": "M-102",
@@ -181,7 +182,8 @@ const DOCS = [
       "role": "작가"
     },
     "to": "이수현·배지윤",
-    "messageId": "glassbook-m-102@archive"
+    "messageId": "glassbook-m-102@archive",
+    "thread": "inquiry"
   },
   {
     "id": "M-103",
@@ -211,7 +213,8 @@ const DOCS = [
       "role": "대표"
     },
     "to": "이수현",
-    "messageId": "glassbook-m-104@archive"
+    "messageId": "glassbook-m-104@archive",
+    "thread": "rights"
   },
   {
     "id": "M-105",
@@ -226,7 +229,8 @@ const DOCS = [
       "role": "편집장"
     },
     "to": "이수현",
-    "messageId": "glassbook-m-105@archive"
+    "messageId": "glassbook-m-105@archive",
+    "thread": "followup"
   },
   {
     "id": "M-201",
@@ -241,7 +245,8 @@ const DOCS = [
       "role": "대표"
     },
     "to": "최나경",
-    "messageId": "glassbook-m-201@archive"
+    "messageId": "glassbook-m-201@archive",
+    "thread": "dispatch"
   },
   {
     "id": "M-202",
@@ -256,7 +261,8 @@ const DOCS = [
       "role": "독자"
     },
     "to": "이벤트 공용 메일",
-    "messageId": "glassbook-m-202@archive"
+    "messageId": "glassbook-m-202@archive",
+    "thread": "dispatch"
   },
   {
     "id": "M-203",
@@ -271,7 +277,8 @@ const DOCS = [
       "role": "매니저"
     },
     "to": "이수현",
-    "messageId": "glassbook-m-203@archive"
+    "messageId": "glassbook-m-203@archive",
+    "thread": "dispatch"
   },
   {
     "id": "M-301",
@@ -286,7 +293,8 @@ const DOCS = [
       "role": "담당자"
     },
     "to": "최나경",
-    "messageId": "glassbook-m-301@archive"
+    "messageId": "glassbook-m-301@archive",
+    "thread": "supply"
   },
   {
     "id": "M-302",
@@ -301,7 +309,8 @@ const DOCS = [
       "role": "대표"
     },
     "to": "최나경·배지윤",
-    "messageId": "glassbook-m-302@archive"
+    "messageId": "glassbook-m-302@archive",
+    "thread": "check"
   },
   {
     "id": "M-303",
@@ -310,14 +319,15 @@ const DOCS = [
     "by": "다온차 → 유리책방",
     "date": "05.20 14:10",
     "locked": "sponsor",
-    "body": "<p>요청하신 사항에 대해 확인하여 회신드립니다.</p><p>① 당사 협찬 품목은 티백 40세트입니다.<br>② 문정우 대표님 또는 다른 직원에게 병입 음료를 별도 제공한 사실이 없습니다.<br>③ 개별 수령자에게 다른 제품을 보내 달라고 전화한 사실이 없습니다.</p><p>확인 요청서에 첨부된 병 제품의 라벨은 당사가 전달한 홍보용 시안과 같지만, 당사가 생산하거나 납품한 제품이 아닙니다.</p><blockquote>정상 협찬품과 해당 병 제품은 구분해 주시기 바랍니다.</blockquote><p>회신자: 다온차 제휴 담당 / 회사 공식 주소 회신</p>",
+    "body": "<p>요청하신 사항에 대해 확인하여 회신드립니다.</p><p>① 당사 협찬 품목은 티백 40세트입니다.<br>② 문정우 대표님 또는 다른 직원에게 병입 음료를 별도 제공한 사실이 없습니다.<br>③ 개별 수령자에게 다른 제품을 보내 달라고 전화한 사실이 없습니다.</p><p>편집부 보존 담당자를 통해 전달받은 병 제품 사진의 라벨은 당사가 전달한 홍보용 시안과 같지만, 당사가 생산하거나 납품한 제품이 아닙니다.</p><blockquote>정상 협찬품과 해당 병 제품은 구분해 주시기 바랍니다.</blockquote><p>회신자: 다온차 제휴 담당 / 회사 공식 주소 회신</p>",
     "author": {
       "name": "다온차",
       "department": "브랜드제휴팀",
       "role": "담당자"
     },
     "to": "유리책방",
-    "messageId": "glassbook-m-303@archive"
+    "messageId": "glassbook-m-303@archive",
+    "thread": "supply"
   },
   {
     "id": "W-101",
@@ -542,7 +552,8 @@ const DOCS = [
       "role": "대리"
     },
     "to": "배지윤",
-    "messageId": "glassbook-m-401@archive"
+    "messageId": "glassbook-m-401@archive",
+    "thread": "distribution"
   },
   {
     "id": "M-402",
@@ -557,7 +568,8 @@ const DOCS = [
       "role": "담당자"
     },
     "to": "정민서",
-    "messageId": "glassbook-m-402@archive"
+    "messageId": "glassbook-m-402@archive",
+    "thread": "print"
   },
   {
     "id": "M-403",
@@ -572,7 +584,8 @@ const DOCS = [
       "role": "디자이너"
     },
     "to": "한결인쇄",
-    "messageId": "glassbook-m-403@archive"
+    "messageId": "glassbook-m-403@archive",
+    "thread": "print"
   },
   {
     "id": "M-404",
@@ -602,7 +615,8 @@ const DOCS = [
       "role": "담당자"
     },
     "to": "최나경",
-    "messageId": "glassbook-m-405@archive"
+    "messageId": "glassbook-m-405@archive",
+    "thread": "arrival"
   },
   {
     "id": "M-406",
@@ -617,7 +631,8 @@ const DOCS = [
       "role": "매니저"
     },
     "to": "다온차",
-    "messageId": "glassbook-m-406@archive"
+    "messageId": "glassbook-m-406@archive",
+    "thread": "arrival"
   },
   {
     "id": "M-407",
@@ -777,7 +792,8 @@ const DOCS = [
       "role": "대표"
     },
     "to": "서해준",
-    "messageId": "glassbook-m-501@archive"
+    "messageId": "glassbook-m-501@archive",
+    "thread": "proposal"
   },
   {
     "id": "M-502",
@@ -792,7 +808,8 @@ const DOCS = [
       "role": "작가"
     },
     "to": "문정우",
-    "messageId": "glassbook-m-502@archive"
+    "messageId": "glassbook-m-502@archive",
+    "thread": "proposal"
   },
   {
     "id": "M-503",
@@ -807,7 +824,8 @@ const DOCS = [
       "role": "대표"
     },
     "to": "서해준",
-    "messageId": "glassbook-m-503@archive"
+    "messageId": "glassbook-m-503@archive",
+    "thread": "proposal"
   },
   {
     "id": "M-504",
@@ -822,7 +840,8 @@ const DOCS = [
       "role": "작가"
     },
     "to": "문정우",
-    "messageId": "glassbook-m-504@archive"
+    "messageId": "glassbook-m-504@archive",
+    "thread": "credit"
   },
   {
     "id": "M-505",
@@ -837,7 +856,8 @@ const DOCS = [
       "role": "대표"
     },
     "to": "서해준",
-    "messageId": "glassbook-m-505@archive"
+    "messageId": "glassbook-m-505@archive",
+    "thread": "credit"
   },
   {
     "id": "M-506",
@@ -852,7 +872,8 @@ const DOCS = [
       "role": "작가"
     },
     "to": "문정우",
-    "messageId": "glassbook-m-506@archive"
+    "messageId": "glassbook-m-506@archive",
+    "thread": "question"
   },
   {
     "id": "M-507",
@@ -867,7 +888,8 @@ const DOCS = [
       "role": "대표"
     },
     "to": "서해준",
-    "messageId": "glassbook-m-507@archive"
+    "messageId": "glassbook-m-507@archive",
+    "thread": "question"
   },
   {
     "id": "M-508",
@@ -909,7 +931,8 @@ const DOCS = [
         "label": "원고개작계약_서해준_체결본"
       }
     ],
-    "messageId": "glassbook-m-509@archive"
+    "messageId": "glassbook-m-509@archive",
+    "thread": "proposal"
   },
   {
     "id": "F-003",
@@ -937,7 +960,98 @@ const DOCS = [
       "department": "경영진",
       "role": "대표"
     },
-    "body": "<p>수령 주소 확인했습니다. 요청하신 이용 근거 자료는 오늘 회사 발송편에 함께 싣겠습니다.</p><p>운영팀에 이번 결말 추리 이벤트의 응모 특별상 처리를 요청해 두었습니다. 원고 관련 협의와는 별개로 공개 연재 소책자와 행사 기념품을 동봉하려고 합니다. 협찬사에서 별도로 받은 밀봉 시음 음료도 함께 안내했습니다.</p><p>자료와 기념품을 함께 받아 주실 수 있는지 회신 부탁드립니다. 최종 발송 안내는 운영팀에서 드리겠습니다.</p><small>고객 문의에 제출된 수신 메일 사본. 개인정보는 제외됐습니다.</small>"
+    "body": "<p>수령 주소 확인했습니다. 요청하신 이용 근거 자료는 오늘 회사 발송편에 함께 싣겠습니다.</p><p>운영팀에 이번 결말 추리 이벤트의 응모 특별상 처리를 요청해 두었습니다. 원고 관련 협의와는 별개로 공개 연재 소책자와 행사 기념품을 동봉하려고 합니다. 협찬사에서 별도로 받은 밀봉 시음 음료도 함께 안내했습니다.</p><p>자료와 기념품을 함께 받아 주실 수 있는지 회신 부탁드립니다. 최종 발송 안내는 운영팀에서 드리겠습니다.</p><small>고객 문의에 제출된 수신 메일 사본. 개인정보는 제외됐습니다.</small>",
+    "thread": "dispatch"
+  },
+  {
+    "id": "M-100",
+    "cat": "mail",
+    "title": "작품 관련 문의",
+    "by": "배지윤 → 서해준·이수현",
+    "date": "05.10 10:05",
+    "to": "서해준·이수현",
+    "body": "<p>작가님, 이벤트 접수란과 문의함으로 접수된 원고 출처 관련 문의를 전달드립니다.</p><p>접수자 이수현 님은 이소현 님의 유족이며, 옛 제출 원고와 접수 메일을 보관하고 있다고 합니다. 인용하신 단락과 제공받으신 원안을 확인해 주시고, 권리 근거는 대표님께 별도로 요청하겠습니다.</p><p>이수현 님을 함께 수신자로 넣었습니다. 개인정보가 포함된 첨부는 작품 검토 용도로만 확인해 주세요.</p>",
+    "author": {
+      "name": "배지윤",
+      "department": "편집부",
+      "role": "편집장"
+    },
+    "messageId": "glassbook-m-100@archive",
+    "attachments": [
+      {
+        "id": "F-001",
+        "label": "원고 발췌 제출본"
+      },
+      {
+        "id": "F-002",
+        "label": "2014년 접수 확인 메일"
+      }
+    ],
+    "thread": "inquiry"
+  },
+  {
+    "id": "M-107",
+    "cat": "mail",
+    "title": "자료 관련",
+    "by": "이수현 → 문정우",
+    "date": "05.13 16:20",
+    "to": "문정우",
+    "body": "<p>언니의 원고에 관한 출판사의 공식 답변을 요청합니다. 원고 이용을 허락받았다는 계약이나 근거 자료가 있다면 사본을 보내 주세요.</p><p>특별상이나 보상 물품을 요청하는 것이 아닙니다. 원고를 어떤 경로로 사용하게 됐는지 먼저 확인하고 싶습니다.</p><small>고객 문의에 제출된 발신 사본.</small>",
+    "author": {
+      "name": "이수현",
+      "department": "외부",
+      "role": "독자"
+    },
+    "messageId": "glassbook-m-107@archive",
+    "thread": "rights"
+  },
+  {
+    "id": "M-108",
+    "cat": "mail",
+    "title": "보내주신 자료",
+    "by": "이수현 → 배지윤",
+    "date": "05.15 15:55",
+    "to": "배지윤",
+    "body": "<p>검토해 주셔서 감사합니다. 문의함이 종결로 표시되는데, 저는 계약 근거를 아직 확인하지 못했습니다.</p><p>대표님께 자료만 보내 달라고 회신했고 기념품과 음료는 거절했습니다. 제 답변이 어떻게 전달됐는지 확인 부탁드립니다. 보관 원고와 접수 메일은 그대로 보존하고 있습니다.</p><small>고객 문의에 제출된 발신 사본.</small>",
+    "author": {
+      "name": "이수현",
+      "department": "외부",
+      "role": "독자"
+    },
+    "messageId": "glassbook-m-108@archive",
+    "thread": "followup"
+  },
+  {
+    "id": "M-304",
+    "cat": "mail",
+    "title": "확인 부탁드립니다",
+    "by": "최나경 → 문정우·배지윤",
+    "date": "05.19 09:10",
+    "to": "문정우·배지윤",
+    "body": "<p>자료 보존 요청에 따라 15일 출고표와 포장 기록을 정리하고 있습니다. 0217번에 동봉한 병 제품은 대표님이 별도로 인계해 주신 건으로 기록돼 있습니다.</p><p>공급처와 수령 경위, 협찬사 담당자 연락을 확인할 수 있는 자료가 있으면 공유 부탁드립니다. 저는 인계받은 상태에서 개봉하지 않고 포장했습니다.</p>",
+    "author": {
+      "name": "최나경",
+      "department": "운영팀",
+      "role": "매니저"
+    },
+    "messageId": "glassbook-m-304@archive",
+    "thread": "check"
+  },
+  {
+    "id": "M-408",
+    "cat": "mail",
+    "title": "6월 신간 배본 일정",
+    "by": "배지윤 → 김도윤",
+    "date": "05.19 16:10",
+    "to": "김도윤",
+    "body": "<p>6월 신간 배본을 3일 기준으로 진행할 수 있을지 확인 부탁드립니다. 표지와 소개 자료는 이번 주에 정리할 예정입니다.</p><p>서점 안내에 필요한 자료 마감일도 함께 알려 주세요.</p>",
+    "author": {
+      "name": "배지윤",
+      "department": "편집부",
+      "role": "편집장"
+    },
+    "messageId": "glassbook-m-408@archive",
+    "thread": "distribution"
   }
 ];
 const PEOPLE = [
